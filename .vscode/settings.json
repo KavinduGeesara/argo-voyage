@@ -1,0 +1,7 @@
+{
+    "yaml.disableSchemaDetection": [],
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@deployment": "file:///Users/kavindu/self_l/argo-voyage/k8s/hello-app/deployment.yaml",
+        "https://www.schemastore.org/yamlfmt.json": "file:///Users/kavindu/self_l/argo-voyage/k8s/hello-app/deployment.yaml"
+    }
+}
